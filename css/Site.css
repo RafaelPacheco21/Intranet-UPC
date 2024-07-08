@@ -1,0 +1,811 @@
+/*JeFFeR*/
+.Div_Espacio
+{
+    float: left;
+    width: 100%;
+    height: 3px;
+}
+.Div_Espacio10
+{
+    float: left;
+    width: 100%;
+    height: 10px;
+}
+.DivParrafo
+{
+    width: 100%;
+    float: left;
+    padding-right: 4px;
+}
+.DivParrafoScroll
+{
+    width: 99%;
+    height: 200px;
+    overflow: scroll;
+}
+
+.webgridStyle
+{
+    width: 80%;
+    text-align: left;
+}
+
+.Div_Etiqueta
+{
+    float: left;
+    margin-top: 6px;
+    width: 19%;
+}
+.Div_EtiquetaNegraNota
+{
+    display: inline-block;
+    font-size: Small;
+    font-weight: bold;
+    width: 49px;
+}
+.Div_EtiquetaNegra
+{
+    float: left;
+    margin-top: 12px;
+    width: 45%;
+    font-size: Small;
+    font-weight: bold;
+    padding: 2px;
+}
+
+.Div_EtiquetaNegra_Right
+{
+    float: right;
+    margin-top: 12px;
+    width: 45%;
+    font-size: Small;
+    font-weight: bold;
+    padding: 2px;
+}
+.Div_EtiquetaNegra20porciento
+{
+    float: left;
+    margin-top: 12px;
+    width: 20%;
+    font-size: Small;
+    font-weight: bold;
+    padding: 2px;
+}
+
+.Div_EtiquetaNegra20porciento_Right
+{
+    float: right;
+    margin-top: 12px;
+    width: 20%;
+    font-size: Small;
+    font-weight: bold;
+    padding: 2px;
+}
+.Div_EtiquetaColor
+{
+    float: left;
+    width: 19%;
+    font-weight: bold;
+    margin-top: 7px;
+    padding-top: 0;
+    color: maroon;
+}
+.Div_ControlRegular
+{
+    float: left;
+    width: 50%;
+    text-align: left;
+    height: auto;
+    margin-top: 7px;
+    margin-left: 0px;
+}
+.Div_ControlRegular70
+{
+    float: left;
+    width: 70%;
+    text-align: left;
+    height: auto;
+    margin-top: 7px;
+    margin-left: 0px;
+}
+.bolds
+{
+    font-weight: bold;
+    color: Maroon;
+    text-align: center;
+}
+.clear
+{
+    clear: both;
+}
+.clear
+{
+    clear: both;
+}
+.divModal
+{
+    margin: 50px;
+}
+.Div_LineaHorizontal
+{
+    background: none repeat scroll 0 0 maroon;
+    border: 0 none;
+    display: block;
+    height: 2px;
+    margin: 1em 0;
+    opacity: 0.8;
+}
+.Div_EtiquetaTituloUno
+{
+    float: left;
+    width: 50%;
+    margin-top: 12px;
+    padding-top: 1px;
+    font-size: 11px;
+    color: maroon;
+    font-weight: bold;
+    margin-bottom: 6px;
+}
+
+.WebGridTable
+{
+    border: thin solid maroon;
+}
+.WebGridHeader
+{
+    border: thin solid #000000;
+}
+
+.DivTituloPartialView
+{
+    float: left;
+    margin: .1em 16px .2em 0;
+    color: #FFFFFF;
+    font-size: 11px;
+    font-weight: bold;
+    padding-left: 4px;
+}
+
+/*FIELDSET
+{
+    border: solid 1px maroon;
+    padding: 0em 0em;
+}*/
+.thleft
+{
+    text-align: left;
+}
+.FooterAsignaturasHabiles
+{
+    border-width: 1px;
+    width: 93%;
+    text-align: left;
+    float: left;
+    background: none repeat scroll 0 0 #FFE7A6;
+    border-style: none solid solid solid;
+    color: maroon;
+    font-weight: 700;
+    padding-bottom: 7px;
+    padding-top: 7px;
+}
+.FooterAsignaturasHabilesSeg
+{
+    border-width: 1px;
+    width: 7%;
+    text-align: center;
+    float: left;
+    background: none repeat scroll 0 0 #FFE7A6;
+    border-style: none solid solid none;
+    color: maroon;
+    font-weight: 700;
+    padding-bottom: 7px;
+    padding-top: 7px;
+}
+
+.DivParrafoScroll_Vertical
+{
+    width: 99%;
+    height: auto;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    max-height: 200px;
+}
+
+.DivParrafoScroll_Vertical_270
+{
+    width: 100%;
+    height: auto;
+    overflow-x: hidden;
+    overflow-y: auto;
+    max-height: 270px;
+}
+
+.FooterWebGrid
+{
+    background-color: #FFE7A6;
+    color: maroon;
+    font-weight: bold;
+    padding:4px !important;
+}
+.FooterWebGrid2
+{
+    background-color: #C0C0C0;
+    color: Black;
+}
+.WEB_texto9
+{
+    font: normal 10px Arial, Helvetica, sans-serif;
+    text-align:center;
+    color: Maroon;
+    font-weight: bold;
+}
+.WEB_texto10
+{
+    font: normal 10px Arial, Helvetica, sans-serif;
+    text-align:center;
+    color:Black;
+    
+}
+.WEB_texto9Small
+{
+    font: normal small Arial, Helvetica, sans-serif;
+    color: Maroon;
+    font-weight: bold;
+}
+.WEB_texto11
+{
+    font: normal 16px Arial, Helvetica, sans-serif;
+    color: Maroon;
+    font-size: x-large;
+    font-weight: bold;
+}
+.WEB_textoCeldaConsolidado
+{
+    font: 8px Arial;
+    text-align:left;    
+}
+.Web_textHora
+{
+    font: normal 10px Arial, Helvetica, sans-serif;
+    color: Maroon;
+    font-weight: bold;
+    background: none repeat scroll 0 0 #FFE7A6;
+    text-align: center;
+}
+.Web_TextCruceCeldaHorario
+{
+    background: none repeat scroll 0 0 #B40404;
+    color: White;
+    font-weight: bold;
+    font: normal 10px Arial, Helvetica, sans-serif;
+    margin: -2px -5px;
+    text-align: center;
+    height: 56px;
+    text-decoration: underline;
+}
+
+.Web_TextCruceNoFechaCeldaHorario
+{
+    background: none repeat scroll 0 0 #EBDBC5;
+    color: White;
+    font-weight: bold;
+    font: normal 10px Arial, Helvetica, sans-serif;
+    margin: -2px -5px;
+    text-align: center;
+    height: 56px;
+}
+.Wet_TextCeldaHorarioEmpty
+{
+    background-color: White;
+    color: Black;
+    cursor: pointer;
+    font: 10px Arial,Helvetica,sans-serif;
+    text-align: center;
+    margin: -2px -5px;
+    height: 56px;
+}
+.Wetb_TextCeldaHorario
+{
+    background-color: White;
+    color: Black;
+    cursor: pointer;
+    font: 10px Arial,Helvetica,sans-serif;
+    text-align: center;
+    margin: -2px -5px;
+}
+.Web_textHoraLeft
+{
+    font: normal 10px Arial, Helvetica, sans-serif;
+    color: Maroon;
+    font-weight: bold;
+    background: none repeat scroll 0 0 #FFE7A6;
+    text-align: left;
+}
+
+.WEB_texto10
+{
+    background-color: White;
+    color: Black;
+    font: 10px Arial,Helvetica,sans-serif;
+    cursor: pointer;
+    margin: -2px -5px;
+    text-align: center;
+}
+
+.WEB_texto50
+{
+    background-color: #F6E3CE;
+    color: Black;
+    font: 10px Arial,Helvetica,sans-serif;
+    cursor: pointer;
+    margin: -2px -5px;
+    text-align: center;
+    height: 56px;
+}
+
+.WEB_texto52
+{
+    background-color: #C6A06D;
+    color: White;
+    font: 10px Arial,Helvetica,sans-serif;
+    cursor: pointer;
+    margin: -2px -5px;
+    text-align: center;
+    height: 56px;
+}
+
+.WEB_texto54
+{
+    color: Maroon;
+    font: 14px Arial,Helvetica,sans-serif;
+    font-weight: bold;
+}
+
+.Web_textNormal
+{
+    font: normal 10px Arial, Helvetica, sans-serif;
+    color: Maroon;
+    font-weight: bold;
+    text-align: center;
+}
+
+.WEB_textoSubTitulo
+{
+    color: Maroon;
+    font: bold 10px Arial,Helvetica,sans-serif;
+    font-weight: bold;
+}
+.WEB_textoSubTituloDetalleHorario
+{
+    color: Maroon;
+    font: bold 12px;
+    font-family : Verdana;
+    font-weight: bold;
+}
+.WEB_textoCenter
+{
+    color: Black;
+    font: 10px Arial,Helvetica,sans-serif;
+    text-align: center;
+}
+
+.WEB_BackColorPopUp
+{
+    background: #FFEFC6;
+}
+
+.Web_Title_PopUp
+{
+    font-family: Arial;
+    color: Maroon;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.Div_EtiquetaPopUp
+{
+    font-family: Arial;
+    color: Black;
+    font-size: 13px;
+    float: left;
+    margin-top: 6px;
+    width: 14%;
+}
+
+.Div_ControlRegularPopUp
+{
+    font-family: Arial;
+    color: Black;
+    font-size: 13px;
+    float: left;
+    margin-top: 6px;
+    width: 82%;
+}
+
+.center_th
+{
+    text-align: center;
+}
+
+.small_column_chek
+{
+    width: 23px;
+    text-align: center;
+    padding-top: 2px !important;
+    font-size:7pt;
+}
+
+.small_column_chek2
+{
+    width: 23px;
+    text-align: center;
+    font-size:7pt;
+}
+
+.small_column_15
+{
+    width: 10px;
+    text-align: center;
+    font-size:7pt;
+}
+.small_column_20
+{
+    width: 23px;
+    text-align: center;
+    margin-left: 10px;
+    font-size:7pt;
+}
+.small_column_21
+{
+    width: 21px;
+    text-align: center;
+    margin-left: 10px;
+    font-size:7pt;
+}
+.small_column_21SM
+{
+    width: 21px;
+    text-align: center;
+    font-size:7pt;
+}
+.small_column_25
+{
+    width: 25px;
+    text-align: center;
+    font-size:7pt;
+}
+.small_column_26
+{
+    width: 26px;
+    text-align: center;
+    font-size:7pt;
+}
+.small_column_28
+{
+    width: 28px;
+    text-align: center;
+    font-size:7pt;
+}
+.small_column_29
+{
+    width: 29px;
+    text-align: center;
+    font-size:7pt;
+}
+.small_column_30
+{
+    width: 30px;
+    text-align: center;
+    font-size:7pt;
+    padding: 0;
+}
+.small_column_36
+{
+    width: 36px;
+    text-align: center;
+    font-size:7pt;
+}
+.small_column_47
+{
+    width: 47px;
+    text-align: center;
+    font-size:7pt;
+}
+.small_column_51
+{
+    width: 51px;
+    text-align: center;
+    font-size:7pt;
+}
+.small_column_48
+{
+    width: 47px;
+    text-align: center;
+    padding-left: 2px !important;
+    font-size:7pt;
+}
+.small_column_107
+{
+    width: 106px;
+    text-align: center;
+    text-align: left !important;
+    font-size:7pt;
+}
+.small_column_135
+{
+    width: 135px;
+    text-align: center;
+    text-align: left !important;
+    font-size:7pt;
+}
+.small_column_142
+{
+    width: 142px;
+    text-align: center;
+    text-align: left !important;
+    font-size:7pt;
+}
+.small_column_144
+{
+    width: 144px;
+    text-align: center;
+    text-align: left !important;
+    font-size:7pt;
+}
+.small_column_170
+{
+    width: 170px;
+    margin-left: 10px;
+    text-align: left;
+    font-size:7pt;
+}
+.small_column_120
+{
+    width: 120px;
+    margin-left: 10px;
+    text-align: left;
+    padding: 0;
+    font-size:7pt;
+}
+
+.small_column_208
+{
+    width: 208px;
+    text-align: center;
+    font-size:7pt;
+}
+.small_column_215
+{
+    width: 215px;
+    text-align: center;
+    font-size:7pt;
+}
+.small_column_273
+{
+    width: 276px;
+    margin-left: 10px;
+    text-align: left;
+    font-size:7pt;
+}
+.small_column_300
+{
+    width: 300px;
+    margin-left: 10px;
+    text-align: left;
+    font-size:7pt;
+}
+.small_column_321
+{
+    width: 321px;
+    margin-left: 10px;
+    text-align: left;
+    padding: 0;
+    font-size:7pt;
+}
+
+.small_column_327
+{
+    width: 327px;
+    margin-left: 10px;
+    text-align: left;
+    padding: 0;
+    font-size:7pt;
+}
+
+.divLoadingMensaje
+{
+    width: 150px;
+    height: 30px;
+    padding-top: 5px;
+    background-color: #FFFFCC;
+    border: solid 1px #999999;
+    text-align: center;
+    vertical-align: middle;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -75px;
+    margin-top: -15px;
+    overflow: visible;
+    z-index: 1012;
+}
+
+.divLoading
+{
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+    text-align: center;
+    padding-top: 50px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+    background-color: black;
+    filter: alpha(opacity=20);
+    mozopacity: 0.2;
+    opacity: 0.2;
+    z-index: 1011;
+}
+
+.False
+{
+    background: Silver !important;
+    font: normal 10px Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.false
+{
+    background-color: Silver !important;
+}
+
+.GridMatriculaActual
+{
+    width: 400px !important;
+}
+
+.GridMatriculaActual td
+{
+    padding:1px;
+}
+
+.MatAct_Check
+{
+    padding: 0px;
+    width: 21px;
+}
+.MatAct_Div_Check
+{
+    padding-top: 5px;
+    padding-bottom: 4px;
+    background-color: Silver !important;
+}
+.MatAct_Nivel
+{
+    padding: 0px !important;
+    width: 29px !important;
+}
+.MatAct_Div_Nivel
+{
+    padding-top: 6px !important;
+    padding-bottom: 6px !important;
+    background-color: Silver !important;
+    text-align: center !important;
+}
+.FondoSilver
+{
+    background-color: #FFE7A6;
+    color: Black;
+    font-weight: bold;
+}
+.Div_EtiquetaColorSM
+{
+    float: left;
+    width: 19%;
+    font-weight: bold;
+    padding-top: 0;
+    color: maroon;
+}
+.MyTableExep
+{
+    width:779px;
+}
+.TablEMatAcT
+{
+    width:400px;
+}
+.ie_top4
+{
+    margin-top:4px !important;
+}
+.DivParrafoScroll_Vertical_174
+{
+    height: auto;
+    overflow-x: hidden;
+    overflow-y: auto;
+    max-height: 174px;
+    max-width:795px;
+}
+
+.DivParrafoScroll_Vertical_130
+{
+    height: auto;
+    overflow-x: hidden;
+    overflow-y: auto;
+    max-height: 130px;
+    max-width:795px;
+}
+
+.DivParrafoScroll_Vertical_200
+{
+    height: auto;
+    overflow-x: hidden;
+    overflow-y: auto;
+    max-width:795px;
+}
+
+.Div33Cell
+{
+width:33%;
+}
+
+.Div10Cell
+{
+width:10%;
+text-align:center;
+}
+
+.DivCenterCell
+{
+    text-align:center;
+}
+
+#wgHorarioRE th
+{
+width:12%;
+}
+
+#wgHorarioM1 th
+{
+width:12%;
+}
+
+#wgHorarioM2 th
+{
+width:12%;
+}
+
+.CaberalRolExamen
+{
+background: none repeat scroll 0 0 #FFE7A6;
+font-family:Arial;
+font-size:13px;
+text-align:center;
+color: #800000;
+}
+
+.tdCellRolExamen
+{
+    font-family: Arial;
+    font-size:	10px;
+    font-weight: 400;
+    color: Black;    
+    vertical-align:	middle;
+    background-color: White;
+    height:	20px;
+}
+
+
+
+.tooltip 
+{
+	position:absolute;
+		display:none;
+		background-color:#FDF5E6;
+		border:1px solid #cc9;
+		padding:3px;
+		font-size:13px;
+		-moz-box-shadow: 2px 2px 11px #666;
+		-webkit-box-shadow: 2px 2px 11px #666;
+		z-index:2000;
+	}
