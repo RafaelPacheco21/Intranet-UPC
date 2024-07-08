@@ -1,0 +1,49 @@
+/*.ntam_23{width:5%;}
+.ntam_32{width:6%;}
+.ntam_47{width:9%;}
+.ntam_200{width:26%;}
+.ntam_46{width:8%;}
+.ntam_317{width:39%;}
+.ntam_134{width:19%;}
+.ntam_90{width:12%;}
+#second th, #second2 th, #secondD th, #secondDi th { margin:0; padding:2px 0.4% !important; }
+#second td, #second2 td, #secondD td, #secondDi td { margin:0; padding:2px 0.4% !important; }
+#inner thead th, #inner2 thead th, #innerD thead th, #innerDi thead th { margin:0; padding:2px 0.4% !important; }
+#inner tbody td, #inner2 tbody td, #innerD tbody td, #innerDi tbody td { margin:0; padding:2px 0.4% !important; }*/
+.ntam_23{width:31px !important;}
+.ntam_30{width:30px !important;}
+.ntam_35{width:35px !important;}
+.ntam_40{width:40px !important;}
+.ntam_32{width:45px !important;}
+.ntam_40{width:50px !important;}
+.ntam_47{width:50px !important;}
+.ntam_200{width:219px !important;}
+.ntam_46{width:48px !important;}
+.ntam_317{width:320px !important;}
+.ntam_134{width:124px !important;}
+.ntam_90{width:88px !important;}
+.ntam_287{width:287px !important;}
+.ntam_300{width:300px !important;}
+.ntam_255{width:255px !important;}
+
+#second th, #second2 th, #secondD th, #secondDi th,#secondHorario th  { margin:0; padding:2px 3px;}
+#second td, #second2 td, #secondD td, #secondDi td,#secondHorario td  { margin:0; padding:2px 3px; }
+#inner thead th, #inner2 thead th, #innerD thead th, #innerDi thead th, #innerHorario thead th { margin:0; padding:2px 3px; }
+#inner tbody td, #inner2 tbody td, #innerD tbody td, #innerDi tbody td, #innerHorario tbody td { margin:0; padding:2px 3px; }
+
+#second table, #second2 table, #secondD table, #secondDi table, #secondHorario table {width:767px; margin:0 !important; padding:0 !important;}
+#inner table, #inner2 table, #innerD table, #innerDi table, #innerHorario table {width:767px; margin:0 !important; padding:0 !important;}
+
+.divGrilla{width:784px; height:142px; overflow-y:auto; overflow-x:hidden; padding-top:0px; margin-top:0px;}
+.divGrillaP{height:184px;}
+.divGrillaHorario{width:784px; max-height:250px; overflow-y:auto; overflow-x:hidden; padding-top:0px; margin-top:0px; margin-bottom: 15px}
+.tableHeader{width:767px;padding-top:0px; margin-top:0px; position:absolute; top:0px; left:0px;}
+
+#inner thead th, #inner2 thead th, #innerD thead th, #innerDi thead th { height:27px !important; }
+#second thead th, #second2 thead th, #secondD thead th, #secondDi thead th { height:27px !important; }
+
+#innerHorario thead th { height:17px !important; }
+#secondHorario thead th { height:17px !important; }
+
+/*#inner table, #inner2 table, #innerD table, #innerDi table{ table-layout:fixed; }
+#second table, #second2 table, #secondD table, #secondDi table{ table-layout:fixed; }*/
